@@ -1,2 +1,2 @@
-# CodeChef_November_2023-
+# CodeChef_November_2023
 Contest Submissions
